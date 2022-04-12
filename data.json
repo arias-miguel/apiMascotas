@@ -1,0 +1,104 @@
+{
+    "usuarios": [
+    {
+      "nombre": "Carlos Andres",
+      "apellido": "Nava",
+      "correo": "carlos2@gmail.com",
+      "id": 6
+    }
+  ],
+    "perros": [
+      {
+        "id": 1,
+        "nombre": "Rocky",
+        "raza": "Rottwailer",
+        "meses": 5,
+        "imagen": "https://cdn.pixabay.com/photo/2016/10/31/14/55/rottweiler-1785760__340.jpg",
+        "sexo": "m",
+        "localizacion": "santa martha",
+        "descripcion":"Rocky es un perrito muy lindo y cariñoso, tiene 5 hermanitos más y por cuestiones de espacio y tiempo no podremos cuidar a todos, nuestra misión es encontrar la familia ideal para él y seguro que tú eres la persona indicada."
+      },
+      {
+        "id": 2,
+        "nombre": "Rambo",
+        "raza": "Criollo",
+        "meses": 3,
+        "imagen": "https://cdn.pixabay.com/photo/2016/12/13/05/15/puppy-1903313__340.jpg",
+        "sexo": "m",
+        "localizacion": "medellin",
+        "descripcion":"rambo es un perrito muy lindo y cariñoso, tiene 2 hermanitos más y por cuestiones de espacio y tiempo no podremos cuidar a todos, nuestra misión es encontrar la familia ideal para él y seguro que tú eres la persona indicada."
+      },
+      {
+        "id": 3,
+        "nombre": "Hulk",
+        "raza": "criollo",
+        "meses": 6,
+        "imagen": "https://cdn.pixabay.com/photo/2016/07/15/15/55/dachshund-1519374_960_720.jpg",
+        "sexo": "m",
+        "localizacion": "Bogota",
+        "descripcion":"Hulk es un perrito muy lindo y cariñoso, tiene 2 hermanitos más y por cuestiones de espacio y tiempo no podremos cuidarlo a todos, nuestra misión es encontrar la familia ideal para él y seguro que tú eres la persona indicada."
+      },
+      {
+        "id": 4,
+        "nombre": "Eva",
+        "raza": "criollo",
+        "meses": 4,
+        "imagen": "https://cdn.pixabay.com/photo/2015/11/17/13/13/puppy-1047521_960_720.jpg",
+        "sexo": "f",
+        "localizacion": "Bogota",
+        "descripcion":"Eva es una perrita muy linda y cariñosa, tiene 5 hermanitos más y por cuestiones de espacio y tiempo no podremos cuidar a todos, nuestra misión es encontrar la familia ideal para él y seguro que tú eres la persona indicada."
+      },
+      {
+        "id": 5,
+        "nombre": "Fiona",
+        "raza": "criollo",
+        "meses": 8,
+        "imagen": "https://cdn.pixabay.com/photo/2019/11/18/00/38/dog-4633734_960_720.jpg",
+        "sexo": "f",
+        "localizacion": "Bogota",
+        "descripcion":"Fiona es una perrita muy linda y cariñosa, tiene 5 hermanitos más y por cuestiones de espacio y tiempo no podremos cuidar a todos, nuestra misión es encontrar la familia ideal para él y seguro que tú eres la persona indicada."
+      }
+    ],
+    "gatos": [
+      {
+        "id": 1,
+        "nombre": "Alisson",
+        "raza": "Siames",
+        "meses": 10,
+        "imagen": "https://cdn.pixabay.com/photo/2017/02/15/12/12/cat-2068462__340.jpg",
+        "sexo": "f",
+        "localizacion": "Bogota",
+        "descripcion":"Alisson es una gata muy linda y cariñosa, tiene 2 hermanitos más y por cuestiones de espacio y tiempo no podremos cuidar a todos, nuestra misión es encontrar la familia ideal para él y seguro que tú eres la persona indicada."
+      },
+      {
+        "id": 2,
+        "nombre": "Alisson",
+        "raza": "Siames",
+        "meses": 10,
+        "imagen": "https://cdn.pixabay.com/photo/2017/02/15/12/12/cat-2068462__340.jpg",
+        "sexo": "f",
+        "localizacion": "Bogota",
+        "descripcion":"Alisson es una gata muy linda y cariñosa, tiene 2 hermanitos más y por cuestiones de espacio y tiempo no podremos cuidar a todos, nuestra misión es encontrar la familia ideal para él y seguro que tú eres la persona indicada."
+      },
+      {
+        "id": 3,
+        "nombre": "Alisson",
+        "raza": "Siames",
+        "meses": 10,
+        "imagen": "https://cdn.pixabay.com/photo/2017/02/15/12/12/cat-2068462__340.jpg",
+        "sexo": "f",
+        "localizacion": "Bogota",
+        "descripcion":"Alisson es una gata muy linda y cariñosa, tiene 2 hermanitos más y por cuestiones de espacio y tiempo no podremos cuidar a todos, nuestra misión es encontrar la familia ideal para él y seguro que tú eres la persona indicada."
+      },
+      {
+        "id": 4,
+        "nombre": "Alisson",
+        "raza": "Siames",
+        "meses": 10,
+        "imagen": "https://cdn.pixabay.com/photo/2017/02/15/12/12/cat-2068462__340.jpg",
+        "sexo": "f",
+        "localizacion": "Bogota",
+        "descripcion":"Alisson es una gata muy linda y cariñosa, tiene 2 hermanitos más y por cuestiones de espacio y tiempo no podremos cuidar a todos, nuestra misión es encontrar la familia ideal para él y seguro que tú eres la persona indicada."
+      }
+    ]
+  }
